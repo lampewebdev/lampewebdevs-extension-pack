@@ -1,0 +1,29 @@
+{
+    "name": "lampewebdevs-extension-pack",
+    "displayName": "LampeWebDev's extension pack",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lampewebdev/lampewebdevs-extension-pack"
+    },
+    "icon": "icon.png",
+    "extensionPack": [
+        "robbowen.synthwave-vscode",
+        "visualstudioexptteam.vscodeintellicode",
+        "jamesbirtles.svelte-vscode",
+        "oderwat.indent-rainbow",
+        "wix.vscode-import-cost",
+        "dbaeumer.vscode-eslint",
+        "coenraads.bracket-pair-colorizer-2",
+        "laurenttreguier.vscode-simple-icons",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "mikestead.dotenv"
+    ]
+}
